@@ -1,0 +1,7 @@
+# Byte compiled python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Our virtual environment
+flask/
